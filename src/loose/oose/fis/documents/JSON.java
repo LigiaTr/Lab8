@@ -17,6 +17,7 @@ public class JSON extends Document {
                 res[pos] = cuvant;
                 pos += 5;
                 ///Pun un comentariu
+                ///Nico mai vrea un comentariu
             }
         }
 
