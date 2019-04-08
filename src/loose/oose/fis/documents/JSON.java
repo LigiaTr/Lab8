@@ -16,6 +16,7 @@ public class JSON extends Document {
             if (!cuvant.contains(":")) {
                 res[pos] = cuvant;
                 pos += 5;
+                ///Pun un comentariu
             }
         }
 
